@@ -1,16 +1,14 @@
-### Hi there 👋
+````bash
+> help --info
+> Games enthusiast who mainly programs in C++.
+> Is trying out C# and developing game in Unity to see what all the fuss is about and he might actually <3 it.
+> Studying computer science at the Silesian University of Technology.
+> Take a look at my projects below 🎲
+````
 
-<!--
-**rosarz/rosarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````bash
+> help --contact
+> youtube: @CaspyGames
+> linkedin: /filip-sołtysik-a607bb168/
+> mailto: kanalcaspy@gmail.com
+````
