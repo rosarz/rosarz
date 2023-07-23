@@ -9,6 +9,6 @@
 ````bash
 > help --contact
 > youtube: @CaspyGames
-> linkedin: /filip-sołtysik-a607bb168/
-> mailto: kanalcaspy@gmail.com
+> linkedin: /in/filip-soltysik/
+> mailto: fsoltysik.dev@gmail.com
 ````
